@@ -25,15 +25,33 @@
     - VS Code Icons
     - 
 
-#### - VSCode Theme:
+### - VSCode Theme:
     - Dracula Official
 
-#### - VSCode Font:
+### - VSCode Font:
     - Fira Code
     - Font ligatures - True
 
+### - Instal Git
+    - Instal git and create gitHum Account
+
+### Install Node.JS
+    - Install Node.JS fornmp - Node Packge Manager
+
+### Install Windows Terminal
+   - Install windows terminal to control pc command
+   - Ohmyposh for How can I decorate my windows terminal
 
 
+### Install Postman
+   - Psotaman A REST API Client
+
+
+
+
+=======================================
+--- 
+<br>
 
 
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
