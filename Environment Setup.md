@@ -1,4 +1,4 @@
-# Basic Environment Setup for Start Web Dsign
+# Basic Environment Setup for Web Development:
 
 ### 1. Install Google Chrome
 
